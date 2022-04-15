@@ -6,7 +6,7 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/Frinternet/fbel",
+ "repository": "https://github.com/FRINTERNET/fbel/tree/Merging",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
